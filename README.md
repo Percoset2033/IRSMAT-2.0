@@ -1,5 +1,5 @@
 # IRSMAT-2.0
-
+<h1><i class="fas fa-calculator"></i> IRSMat <span style="font-size:1rem;background:gold;color:black;padding:3px 10px;border-radius:20px;">2.0</span></h1>
 Игра для математических уравнений для детей 1-4 класс ОБНОВЛЕНИЕ
 
 Основные улучшения игры
